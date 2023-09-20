@@ -1,5 +1,8 @@
 # Probleemid
-## Kuidas sorteerida? 
+## Kuidas ... 
+### ... sorteerida?
+### ... sorteerimine inimese jaoks lihtsaks ja arusaadavaks teha?
+### ... arvestada erinevate piirkondade eripäradega (erinevad vedajad, piirkonnad)? 
 ...
 ## Milleks sorteerida?
 ...
