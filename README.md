@@ -1,3 +1,6 @@
 # Probleemid
-1. Kuidas?
-2. 
+## Kuidas sorteerida?
+...
+## Milleks sorteerida?
+...
+## Miks sorteerida?
