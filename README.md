@@ -11,6 +11,9 @@ FIGMA LINK: https://www.figma.com/file/fWorQB1VOL1sMQNosSKPAN/Untitled?type=desi
 **TAK - 21**
 
 
+**TAK - 22**
+
+
 **Projekti nimi** 
 
 Prügi sorteerimise äpp
