@@ -56,7 +56,7 @@ Arendasime ideid.
 Esitlus.
 
 **Kasutatud allikad**
-[Saaremaa vald "Korraldatud jäätmevedu"]([https://www.figma.com/file/fWorQB1VOL1sMQNosSKPAN/Untitled?](https://www.saaremaavald.ee/liigiti-kogumine)
+[Saaremaa valla koduleht]((https://www.saaremaavald.ee/liigiti-kogumine)
 
 -----------
 **TIIMI TAGASISIDE**
