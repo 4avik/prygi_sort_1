@@ -73,3 +73,11 @@ Sain teada, mis on Githubis README.md, issues ja wiki.
 2.Üks pehme oskus, mida õppisin ja endas arendasin.Arendasin suhtlemis oskust.
 
 3.Üks tehniline oskus, mida õppisin ja endas arendasin.Arendasin enda oskuseid figmas ja Githubis.
+
+**Helena-Karmen Saar**
+
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+ 
+2. Üks pehme oskus, mida õppisin ja endas arendasin.Arendasin suhtlemis oskust.
+
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.Arendasin enda oskuseid figmas ja Githubis.
