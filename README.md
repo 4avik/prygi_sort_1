@@ -88,3 +88,11 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 2. Julgus suhelda ja abi küsida. 
 
 3. Õppisin GitHubi ning Figmat paremini tundma.
+
+**Fredy Ait**
+
+1. Järgmistes projektides või tulevikus enda personaalsetes projektides.
+ 
+2. Tiimi juhtimine, suhtlemine ja töö koormuse jaotamine.
+
+3. Lihtne päringu funktsioon ja parem arusaam VueJSist.
