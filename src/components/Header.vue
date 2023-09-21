@@ -19,7 +19,6 @@ function productSelected() {
   hideAllDropdown();
 }
 
-
 function hideAllDropdown() {
     document.getElementById('dropdown').classList.add('hidden');
     document.getElementById('dropdown').classList.remove('flex');
@@ -76,8 +75,8 @@ const addToList = (newProduct) => {
   </div>
   <div class="w-screen flex-col absolute hidden bg-[#F7FFE5] z-50" id="dropdown">
     <router-link :to="{ path: '/product', query: { productIndex: products.findIndex(item => item.id === product.id) } }" v-for="product in filterByTerm()" class="p-4 border-b" @click="productSelected">
-    {{ product.name }}
-</router-link>
+       {{ product.name }}
+    </router-link>
 
   </div>
 </template>
