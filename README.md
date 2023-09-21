@@ -16,20 +16,20 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 
 ## ⚡Meie tiimiliikmed:
 
-**TA-22**
+★ **TA-22** ★
 - Liis Alber-Jaansalu
 
-**TA - 23**
+☆ **TA - 23** ☆
 - Andrus Raamat
 - Helena-Karmen Saar
 - Emma Lotta Rand
 
-**TAK - 21**
+★ **TAK - 21** ★
 - Aavik
 - Fredy
 - Gregor
   
-**TAK - 22**
+☆ **TAK - 22** ☆
 - Kristo
 
 ---
@@ -44,43 +44,47 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 -----------
 **TIIMI TAGASISIDE**
 
+**Küsimused:**
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+
+
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
+
+
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
+
+---
 
 **Liis Alber-Jaansalu**
 
-1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+1. 
 
 
-2. Üks pehme oskus, mida õppisin ja endas arendasin.
+2. 
 
 
-3. Üks tehniline oskus, mida õppisin ja endas arendasin.
+3. 
 
 **Andrus Raamat**
 
-1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
-Kasutan neid oskusi kooli järgmistes projektides.
+1. Kasutan neid oskusi kooli järgmistes projektides.
 
-2. Üks pehme oskus, mida õppisin ja endas arendasin.
-Proovisin kõike uut salvestada, kasvõi veidike.
+2. Proovisin kõike uut salvestada, kasvõi veidike.
 
-3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-Sain teada, mis on Githubis README.md, issues, wiki ja veidi ka Figmat.
+3. Sain teada, mis on Githubis README.md, issues, wiki ja veidi ka Figmat.
 
 **Gregor Tilts**
 
-1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides? Saan rakendada paremat enesekindlust ja tõõd teha erinevate rakendustega.
+1. Saan rakendada paremat enesekindlust ja tõõd teha erinevate rakendustega.
 
-2.Üks pehme oskus, mida õppisin ja endas arendasin.Arendasin suhtlemis oskust.
+2. Arendasin suhtlemis oskust.
 
-3.Üks tehniline oskus, mida õppisin ja endas arendasin.Arendasin enda oskuseid figmas ja Githubis.
+3. Arendasin enda oskuseid figmas ja Githubis.
 
 **Helena-Karmen Saar**
 
-1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
-Tean järgmine kord paremini mis etappide kaupa projekt käib ning milliseid töövahendeid milleks kasutada saab.
+1. Tean järgmine kord paremini mis etappide kaupa projekt käib ning milliseid töövahendeid milleks kasutada saab.
  
-2. Üks pehme oskus, mida õppisin ja endas arendasin.
-Julgus suhelda ja abi küsida. 
+2. Julgus suhelda ja abi küsida. 
 
-3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-Õppisin GitHubi ning Figmat paremini tundma.
+3. Õppisin GitHubi ning Figmat paremini tundma.
