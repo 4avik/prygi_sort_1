@@ -28,6 +28,7 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 - Aavik
 - Fredy
 - Gregor
+  
 **TAK - 22**
 - Kristo
 
