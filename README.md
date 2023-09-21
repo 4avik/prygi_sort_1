@@ -1,6 +1,17 @@
 # Prügi sorteerimise rakendus
 
-## 📓 Lingid
+## Selle projekti eesmärk
+Selle projekti eesmärk on tutvustada esmakursuslastele, kuidas peaks reaalne projekti loomine mõnes firmas endast kujutama. Lisaks on suur osa sellel projektil planeerimise ja analüüsimise õppimisel. 
+
+## Töövahendite loetelu:
+### Projektis kasutatud töövahendid:
+- Ruumis olev tahvel, GitHub, Figma, VsCode
+
+## Valitud suhtluskanal
+- Slack
+
+
+## 📓 Lingid projektist
 [Figma](https://www.figma.com/file/fWorQB1VOL1sMQNosSKPAN/Untitled?)
 
 ## ⚡Meie tiimiliikmed:
@@ -16,7 +27,7 @@
 - Fredy
 
 **TAK - 22**
-- Nimi
+- Kristo
 
 ---
 
