@@ -64,7 +64,7 @@ Esitlus.
 
 **Liis Alber-Jaansalu**
 
-1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
 
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
@@ -74,11 +74,11 @@ Esitlus.
 
 **Andrus Raamat**
 
-1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
-
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+Kasutan neid oskusi kooli järgmistes projektides.
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
 
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-
+Sain teada, mis on Githubis README.md, issues ja wiki.
