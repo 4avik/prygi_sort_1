@@ -22,6 +22,7 @@ Selle projekti eesmärk on tutvustada esmakursuslastele, kuidas peaks reaalne pr
 **TA - 23**
 - Andrus Raamat
 - Helena-Karmen Saar
+- Emma Lotta Rand
 
 **TAK - 21**
 - Aavik
