@@ -76,8 +76,8 @@ Sain teada, mis on Githubis README.md, issues ja wiki.
 
 **Helena-Karmen Saar**
 
-1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides? 
  
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
 
-3. Üks tehniline oskus, mida õppisin ja endas arendasin.
+3. Üks tehniline oskus, mida õppisin ja endas arendasin. Õppisin GitHubi ning Figmat paremini tundma.
