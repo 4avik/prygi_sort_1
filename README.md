@@ -58,6 +58,7 @@ Esitlus.
 **Kasutatud allikad**
 
 [Saaremaa valla koduleht](https://www.saaremaavald.ee/liigiti-kogumine)
+[Saaremaa valla jäätmehoolduseeskiri Riigi Teatajas](https://www.riigiteataja.ee/akt/410092022027?leiaKehtiv#para14)
 
 -----------
 **TIIMI TAGASISIDE**
