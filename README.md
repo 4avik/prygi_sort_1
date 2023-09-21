@@ -1,7 +1,7 @@
 # Prügi sorteerimise rakendus
 
 ## Selle projekti eesmärk
-Selle projekti eesmärk on tutvustada esmakursuslastele, kuidas peaks reaalne projekti loomine mõnes firmas endast kujutama. Lisaks on suur osa sellel projektil planeerimise ja analüüsimise õppimisel. 
+Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeerimine, visuaalide loomine, toimiva äpi loomine ja tutvustada esmakursuslastele, kuidas peaks reaalne projekti loomine mõnes firmas endast kujutama. Lisaks on suur osa sellel projektil planeerimise ja analüüsimise õppimisel. 
 
 ## Töövahendite loetelu:
 ### Projektis kasutatud töövahendid:
@@ -17,7 +17,7 @@ Selle projekti eesmärk on tutvustada esmakursuslastele, kuidas peaks reaalne pr
 ## ⚡Meie tiimiliikmed:
 
 **TA-22**
-- Nimi
+- Liis Alber-Jaansalu
 
 **TA - 23**
 - Andrus Raamat
@@ -32,41 +32,6 @@ Selle projekti eesmärk on tutvustada esmakursuslastele, kuidas peaks reaalne pr
 - Kristo
 
 ---
-
-**Projekti nimi** 
-
-Prügi sorteerimise äpp
-
-**Projekti eesmärk**
-
-Tarkvara projekti idee analüüs, planeerimine, visuaalide loomine, toimiva äpi loomine
-
-**Kommunikatsioon**
-
-Suhtluskanalid: Slack
-
-**Ülesanded**
-
-**1. päev**
-
-Meeskonnaga tutvumine.
-
-Suhtluskanalite loomine.
-
-Esimesel päeval me planeerisime ajakava ja panime paika vajalikud funktsioonid. 
-
-Arendasime ideid. 
-
-
-**2. päev**
-
-
-
-**3. päev**
-
-
-
-Esitlus.
 
 **Kasutatud allikad**
 
