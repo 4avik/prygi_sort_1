@@ -27,7 +27,7 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 **TAK - 21**
 - Aavik
 - Fredy
-
+- Gregor
 **TAK - 22**
 - Kristo
 
@@ -64,3 +64,11 @@ Kasutan neid oskusi kooli järgmistes projektides.
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
 Sain teada, mis on Githubis README.md, issues ja wiki.
+
+**Gregor Tilts**
+
+1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides? Saan rakendada paremat enesekindlust ja tõõd teha erinevate rakendustega.
+
+2.Üks pehme oskus, mida õppisin ja endas arendasin.Arendasin suhtlemis oskust.
+
+3.Üks tehniline oskus, mida õppisin ja endas arendasin.Arendasin enda oskuseid figmas ja Githubis.
