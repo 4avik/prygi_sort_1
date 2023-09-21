@@ -9,7 +9,7 @@
 - Nimi
 
 **TA - 23**
-- Nimi
+- Andrus Raamat
 
 **TAK - 21**
 - Aavik
@@ -63,6 +63,16 @@ Esitlus.
 
 
 **Liis Alber-Jaansalu**
+
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
+
+
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
+
+
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
+
+**Andrus Raamat**
 
 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
 
