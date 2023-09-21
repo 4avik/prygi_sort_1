@@ -61,10 +61,10 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 Kasutan neid oskusi kooli järgmistes projektides.
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
-
+Proovisin kõike uut salvestada, kasvõi veidike.
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-Sain teada, mis on Githubis README.md, issues ja wiki.
+Sain teada, mis on Githubis README.md, issues, wiki ja veidi ka Figmat.
 
 **Gregor Tilts**
 
