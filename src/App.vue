@@ -5,7 +5,7 @@ import { RouterView } from 'vue-router'
 
 <template>
   <Header />
-  <div class="p-12">
+  <div class="p-6">
     <router-view></router-view>
   </div>
 

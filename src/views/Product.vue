@@ -7,7 +7,8 @@ const props = defineProps({
 </script>
 
 <template>
-    <p>{{ products[productIndex].name }}</p>
-    <p>{{ products[productIndex].packageType }}</p>
-    <p>{{ products[productIndex].wasteType }}</p>
+    <h1 class="text-2xl font-bold mb-6">{{ products[productIndex].name }}</h1>
+    <p class="text-lg">Pakendiliik: {{ products[productIndex].packageType }}</p>
+    <p class="text-lg">Jäätmetüüp: {{ products[productIndex].wasteType }}</p>
+    <img :src="products[productIndex].image" alt="" class="mt-6 rounded lg drop-shadow-md">
 </template>

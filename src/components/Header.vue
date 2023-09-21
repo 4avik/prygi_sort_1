@@ -64,7 +64,7 @@ function toggleNav() {
   <div v-if="filterByTerm().length === 0" class="w-screen flex-col absolute bg-[#F7FFE5]">
     <p class="p-4">No results found!</p>
   </div>
-  <div class="w-screen flex-col absolute hidden bg-[#F7FFE5]" id="dropdown">
+  <div class="w-screen flex-col absolute hidden bg-[#F7FFE5] z-50" id="dropdown">
     <router-link :to="{ path: '/product', query: { productIndex: products.findIndex(item => item.id === product.id) } }" v-for="product in filterByTerm()" class="p-4 border-b" @click="hideAllDropdown()">
         {{ product.name }}
     </router-link>
