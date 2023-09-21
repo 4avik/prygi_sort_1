@@ -56,7 +56,7 @@ Arendasime ideid.
 Esitlus.
 
 **Kasutatud allikad**
-[Saaremaa valla koduleht]((https://www.saaremaavald.ee/liigiti-kogumine)
+[Saaremaa valla koduleht](https://www.saaremaavald.ee/liigiti-kogumine)
 
 -----------
 **TIIMI TAGASISIDE**
