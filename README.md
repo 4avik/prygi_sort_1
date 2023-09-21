@@ -1,18 +1,24 @@
-FIGMA LINK: https://www.figma.com/file/fWorQB1VOL1sMQNosSKPAN/Untitled?type=design&mode=design&t=wjL2hVn5gggbuXA2-0
+# Prügi sorteerimise rakendus
 
-**Liikmed:**
+## 📓 Lingid
+[Figma](https://www.figma.com/file/fWorQB1VOL1sMQNosSKPAN/Untitled?)
+
+## ⚡Meie tiimiliikmed:
 
 **TA-22**
-
+- Nimi
 
 **TA - 23**
-
+- Nimi
 
 **TAK - 21**
-
+- Aavik
+- Fredy
 
 **TAK - 22**
+- Nimi
 
+---
 
 **Projekti nimi** 
 
