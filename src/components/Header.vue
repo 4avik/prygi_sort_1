@@ -72,11 +72,11 @@ const addToList = (newProduct) => {
     <p class="p-4 text-[#C4D7B2] text-xl">PIIRKONDADE INFO</p>
     <RouterLink to="/add-product" class="p-4 text-[#C4D7B2] text-xl" @click="hideAllDropdown()">LISA TOODE</RouterLink>
   </div>
-  <div v-if="filterByTerm().length === 0" class="w-screen flex-col absolute bg-[#F7FFE5]">
+  <div v-if="filterByTerm().length === 0" class="w-screen flex-col absolute bg-[#A0C49D] text-[#F7FFE5] border-b border-[#C4D7B2]">
     <p class="p-4">No results found!</p>
   </div>
-  <div class="w-screen flex-col absolute hidden bg-[#F7FFE5] z-50" id="dropdown">
-    <router-link :to="{ path: '/product', query: { productIndex: products.findIndex(item => item.id === product.id) } }" v-for="product in filterByTerm()" class="p-4 border-b" @click="productSelected">
+  <div class="w-screen flex-col absolute hidden bg-[#A0C49D] text-[#F7FFE5] z-50" id="dropdown">
+    <router-link :to="{ path: '/product', query: { productIndex: products.findIndex(item => item.id === product.id) } }" v-for="product in filterByTerm()" class="p-4 border-b border-[#C4D7B2]" @click="productSelected">
        {{ product.name }}
     </router-link>
 
