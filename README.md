@@ -109,6 +109,6 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 
 1. Saan paremini aega jagada järgmistes projektides.
 
-2. Suhtlemine
+2. Suhtlemine ja prügi sorteerimine
 
 3. Figma ja Fredy pealt vaatasin ka Vue-d
