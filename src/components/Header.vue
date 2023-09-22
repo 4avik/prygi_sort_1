@@ -69,13 +69,13 @@ function toggleNav() {
     <Bars3Icon class="text-[#F7FFE5] w-12" @click="toggleNav()" />
   </header>
 
-  <div class="w-screen flex-col absolute hidden bg-[#70926D]" id="nav">
+  <div class="w-screen flex-col absolute hidden bg-[#70926D] z-50" id="nav">
     <RouterLink to="/" class="p-4 text-[#C4D7B2] text-xl" @click="hideAllDropdown()">ÜLDINFO</RouterLink>
     <RouterLink to="/piirkond" class="p-4 text-[#C4D7B2] text-xl" @click="hideAllDropdown()">PIIRKONDADE INFO</RouterLink>
     <RouterLink to="/add-product" class="p-4 text-[#C4D7B2] text-xl" @click="hideAllDropdown()">LISA TOODE</RouterLink>
   </div>
 
-  <div v-if="filterByTerm().length === 0" class="w-screen flex-col absolute bg-[#A0C49D] text-[#F7FFE5] border-b border-[#C4D7B2]">
+  <div v-if="filterByTerm().length === 0" class="w-screen z-50 flex-col absolute bg-[#A0C49D] text-[#F7FFE5] border-b border-[#C4D7B2]">
     <p class="p-4">No results found!</p>
   </div>
   <div class="w-screen flex-col absolute hidden bg-[#A0C49D] text-[#F7FFE5] z-50" id="dropdown">
