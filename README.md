@@ -66,6 +66,7 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 
 3. Värskendasin mälu Figma osas, wiki kirjutamine, Vue.
 
+★
 
 **Andrus Raamat**
 
@@ -75,6 +76,7 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 
 3. Sain teada, mis on Githubis README.md, issues, wiki ja veidi ka Figmat.
 
+☆
 
 **Helena-Karmen Saar**
 
@@ -84,6 +86,7 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 
 3. Õppisin GitHubi ning Figmat paremini tundma.
 
+★
 
 **Emma Lotta Rand**
 
@@ -93,7 +96,17 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 
 3. Õppisin kuidas kasutada GitHubi ja Figmat.
 
+☆
 
+**Aavik**
+
+1. Igal kujul mil võimalik
+
+2. Koostöö tegemine, kõigiga arvestamine
+
+3. Pisidetailid,sain meenutada kuidas GitHub ja Figma töötavad.
+
+★
 
 **Fredy Ait**
 
@@ -103,6 +116,7 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 
 3. Lihtne päringu funktsiooni tegemine ja parem arusaam VueJSist.
 
+☆
 
 **Gregor Tilts**
 
@@ -112,7 +126,7 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 
 3. Arendasin enda oskuseid figmas ja Githubis.
 
-
+★
 
 **Kristo-Steven Altmäe**
 
@@ -121,3 +135,5 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 2. Suhtlemine ja prügi sorteerimine
 
 3. Figma ja Fredy pealt vaatasin ka Vue-d
+
+☆
