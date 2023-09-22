@@ -13,6 +13,7 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 
 ## 📓 Lingid projektist
 - [Figma](https://www.figma.com/file/fWorQB1VOL1sMQNosSKPAN/Untitled?)
+- [Töö, live](https://d0435abd.prygi-sort-1.pages.dev/)
 
 ## ⚡Meie tiimiliikmed:
 
