@@ -1,10 +1,12 @@
 const getImg = (name) => {
-    const path = `/src/assets/images/${name}`; //your imgfile
+    const path = `/src/assets/images/${name}`; 
     const modules = import.meta.globEager("/src/assets/images/*"); 
     return modules[path].default;
 }
 
-export const products = [
+let storedProducts = JSON.parse(localStorage.getItem('products'));
+if (!storedProducts) {
+    storedProducts = [
     {
         id: 1,
         name: "Hellus Haps marja hapupiimajook 1,0 kg",
@@ -68,56 +70,13 @@ export const products = [
         wasteType: "Segaolemajäätmed, Pakendijäätmed",
         image: getImg("raniteemandid.webp")
     },
-    // {
-    //     id: 3,
-    //     nimi: "VANAPABER"
-    // },
-    // {
-    //     id: 4,
-    //     nimi: "PAKENDIJÄÄTMED"
-    // },
-    // {
-    //     id: 5,
-    //     nimi: "ELEKTROONIKAJÄÄTMED"
-    // },
-    // {
-    //     id: 6,
-    //     nimi: "AKUD JA PATAREID"
-    // },
-    // {
-    //     id: 7,
-    //     nimi: "RÕIVAD JA TEKSTIIL"
-    // },
-    // {
-    //     id: 8,
-    //     nimi: "PÕLLUMAJANDUSPLAST"
-    // },
-    // {
-    //     id: 9,
-    //     nimi: "KLAASIJÄÄTMED"
-    // },
-    // {
-    //     id: 10,
-    //     nimi: "PUIDUJÄÄTMED"
-    // },
-    // {
-    //     id: 11,
-    //     nimi: "METALLIJÄÄTMED"
-    // },
-    // {
-    //     id: 12,
-    //     nimi: "SUURJÄÄTMED"
-    // },
-    // {
-    //     id: 13,
-    //     nimi: "OHTLIKUD JÄÄTMED"
-    // },
-    // {
-    //     id: 14,
-    //     nimi: "VANAREHVID"
-    // },
-    // {
-    //     id: 15,
-    //     nimi: "ROMUSÕIDUKID"
-    // }
-]
+];
+localStorage.setItem('products', JSON.stringify(storedProducts));
+}
+
+export const products = storedProducts;
+
+export const addProduct = (product) => {
+products.push(product);
+localStorage.setItem('products', JSON.stringify(products));
+};

@@ -32,6 +32,11 @@ const router = createRouter({
       name: 'biojaatmed',
       component: () => import('../views/Biojaatmed.vue')
     },
+    {
+      path: '/add-product',
+      name: 'add-product',
+      component: () => import('../views/AddProduct.vue')
+    },
   ]
 })
 
