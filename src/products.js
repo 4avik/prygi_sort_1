@@ -68,6 +68,34 @@ export const products = [
         wasteType: "Segaolemajäätmed, Pakendijäätmed",
         image: getImg("raniteemandid.webp")
     },
+    {
+        id: 10,
+        name: "Banaan",
+        packageType: "Kilekott",
+        wasteType: "Biojääde, Pakendijäätmed",
+        image: getImg("Banaan.webp")
+    },
+    {
+        id: 11,
+        name: "Perenaise Sai",
+        packageType: "Kilekott",
+        wasteType: "Pakendijäätmed",
+        image: getImg("perenaise_sai.jpg")
+    },
+    {
+        id: 12,
+        name: "Must Rukkileib Eesti Pagar 390g",
+        packageType: "Kilekott",
+        wasteType: "Pakendijäätmed",
+        image: getImg("must_rukkileib.jpg")
+    },
+    {
+        id: 13,
+        name: "Rakvere Lastevorst",
+        packageType: "Kile",
+        wasteType: "Pakendijäätmed",
+        image: getImg("lastevorst.webp")
+    },
     // {
     //     id: 3,
     //     nimi: "VANAPABER"
