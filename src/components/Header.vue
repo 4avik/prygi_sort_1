@@ -20,39 +20,40 @@ function productSelected() {
 }
 
 function hideAllDropdown() {
-    document.getElementById('dropdown').classList.add('hidden');
-    document.getElementById('dropdown').classList.remove('flex');
-    
-    showNav = false;
-    document.getElementById('nav').classList.remove('flex')
-    document.getElementById('nav').classList.add('hidden')
+  const dropdown = document.getElementById('dropdown');
+  const nav = document.getElementById('nav');
+
+  dropdown.classList.add('hidden');
+  dropdown.classList.remove('flex');
+  
+  showNav = false;
+  nav.classList.remove('flex')
+  nav.classList.add('hidden')
 }
 
 watch(message, (newMessage) => {
+  const dropdown = document.getElementById('dropdown');
   if(newMessage.length > 0) {
-    document.getElementById('dropdown').classList.remove('hidden');
-    document.getElementById('dropdown').classList.add('flex');
+    dropdown.classList.remove('hidden');
+    dropdown.classList.add('flex');
   } else {
-    document.getElementById('dropdown').classList.add('hidden');
-    document.getElementById('dropdown').classList.remove('flex');
+    dropdown.classList.add('hidden');
+    dropdown.classList.remove('flex');
   }
 })
 
 function toggleNav() {
+  const nav = document.getElementById('nav');
     if(!showNav) {
         showNav = true;
-        document.getElementById('nav').classList.remove('hidden')
-        document.getElementById('nav').classList.add('flex')
+        nav.classList.remove('hidden')
+        nav.classList.add('flex')
     } else {
         showNav = false;
-        document.getElementById('nav').classList.remove('flex')
-        document.getElementById('nav').classList.add('hidden')
+        nav.classList.remove('flex')
+        nav.classList.add('hidden')
     }
 }
-const addToList = (newProduct) => {
-    products.push(newProduct); 
-};
-
 </script>
 
 <template>
@@ -67,18 +68,19 @@ const addToList = (newProduct) => {
     </div>
     <Bars3Icon class="text-[#F7FFE5] w-12" @click="toggleNav()" />
   </header>
+
   <div class="w-screen flex-col absolute hidden bg-[#70926D]" id="nav">
     <RouterLink to="/" class="p-4 text-[#C4D7B2] text-xl" @click="hideAllDropdown()">ÜLDINFO</RouterLink>
     <RouterLink to="/piirkond" class="p-4 text-[#C4D7B2] text-xl" @click="hideAllDropdown()">PIIRKONDADE INFO</RouterLink>
     <RouterLink to="/add-product" class="p-4 text-[#C4D7B2] text-xl" @click="hideAllDropdown()">LISA TOODE</RouterLink>
   </div>
+
   <div v-if="filterByTerm().length === 0" class="w-screen flex-col absolute bg-[#A0C49D] text-[#F7FFE5] border-b border-[#C4D7B2]">
     <p class="p-4">No results found!</p>
   </div>
   <div class="w-screen flex-col absolute hidden bg-[#A0C49D] text-[#F7FFE5] z-50" id="dropdown">
-    <router-link :to="{ path: '/product', query: { productIndex: products.findIndex(item => item.id === product.id) } }" v-for="product in filterByTerm()" class="p-4 border-b border-[#C4D7B2]" @click="productSelected">
+    <router-link :to="{ path: '/product', query: { productIndex: products.findIndex(item => item.id === product.id) } }" v-for="product in filterByTerm()" class="p-4 border-b border-[#C4D7B2]" @click="productSelected()">
        {{ product.name }}
     </router-link>
-
   </div>
 </template>
