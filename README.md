@@ -105,3 +105,10 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 
 3. Õppisin kuidas kasutada GitHubi ja Figmat.
 
+**Kristo-Steven Altmäe**
+
+1. Saan paremini aega jagada järgmistes projektides.
+
+2. Suhtlemine
+
+3. Figma ja Fredy pealt vaatasin ka Vue-d
