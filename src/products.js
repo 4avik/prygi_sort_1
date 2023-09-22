@@ -1,10 +1,12 @@
 const getImg = (name) => {
-    const path = `/src/assets/images/${name}`; //your imgfile
+    const path = `/src/assets/images/${name}`; 
     const modules = import.meta.globEager("/src/assets/images/*"); 
     return modules[path].default;
 }
 
-export const products = [
+let storedProducts = JSON.parse(localStorage.getItem('products'));
+if (!storedProducts) {
+    storedProducts = [
     {
         id: 1,
         name: "Hellus Haps marja hapupiimajook 1,0 kg",
@@ -96,4 +98,13 @@ export const products = [
         wasteType: "Pakendijäätmed",
         image: getImg("lastevorst.webp")
     },
-]
+];
+localStorage.setItem('products', JSON.stringify(storedProducts));
+}
+
+export const products = storedProducts;
+
+export const addProduct = (product) => {
+products.push(product);
+localStorage.setItem('products', JSON.stringify(products));
+};
