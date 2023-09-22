@@ -59,7 +59,7 @@ function toggleNav() {
 <template>
   <header class="bg-[#A0C49D] h-24 drop-shadow-md flex justify-around items-center w-screen">
     <RouterLink to="/">
-      <img src="../assets/recycle-symbol 1.png" class="w-12" alt="Recycle logo">
+      <img src="../assets/recycle-symbol.png" class="w-12" alt="Recycle logo">
     </RouterLink>
     <div class="flex justify-end items-center">
       <MagnifyingGlassIcon class="absolute h-4 mr-2" />
