@@ -33,6 +33,11 @@ const router = createRouter({
       component: () => import('../views/Biojaatmed.vue')
     },
     {
+      path: '/piirkond',
+      name: 'piirkond',
+      component: () => import('../views/Piirkond.vue')
+    },
+    {
       path: '/add-product',
       name: 'add-product',
       component: () => import('../views/AddProduct.vue')
