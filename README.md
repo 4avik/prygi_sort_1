@@ -55,6 +55,7 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 
 ---
 
+
 **Liis Alber-Jaansalu**
 
 1. Arendusprotsess etappide kaupa, oli hea teha need läbi nii, nagu asi päriselt käima peaks. 
@@ -65,6 +66,7 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 
 3. Värskendasin mälu Figma osas, wiki kirjutamine, Vue.
 
+
 **Andrus Raamat**
 
 1. Kasutan neid oskusi kooli järgmistes projektides.
@@ -73,13 +75,6 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 
 3. Sain teada, mis on Githubis README.md, issues, wiki ja veidi ka Figmat.
 
-**Gregor Tilts**
-
-1. Saan rakendada paremat enesekindlust ja tõõd teha erinevate rakendustega.
-
-2. Arendasin suhtlemis oskust.
-
-3. Arendasin enda oskuseid figmas ja Githubis.
 
 **Helena-Karmen Saar**
 
@@ -89,13 +84,6 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 
 3. Õppisin GitHubi ning Figmat paremini tundma.
 
-**Fredy Ait**
-
-1. Järgmistes projektides või tulevikus enda personaalsetes projektides.
- 
-2. Tiimi juhtimine, suhtlemine ja töö koormuse jaotamine.
-
-3. Lihtne päringu funktsiooni tegemine ja parem arusaam VueJSist.
 
 **Emma Lotta Rand**
 
@@ -104,6 +92,27 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 2. Õppisin meeskonnatööd ja omavahelist suhtlemist.
 
 3. Õppisin kuidas kasutada GitHubi ja Figmat.
+
+
+
+**Fredy Ait**
+
+1. Järgmistes projektides või tulevikus enda personaalsetes projektides.
+ 
+2. Tiimi juhtimine, suhtlemine ja töö koormuse jaotamine.
+
+3. Lihtne päringu funktsiooni tegemine ja parem arusaam VueJSist.
+
+
+**Gregor Tilts**
+
+1. Saan rakendada paremat enesekindlust ja tõõd teha erinevate rakendustega.
+
+2. Arendasin suhtlemis oskust.
+
+3. Arendasin enda oskuseid figmas ja Githubis.
+
+
 
 **Kristo-Steven Altmäe**
 
