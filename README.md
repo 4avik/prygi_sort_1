@@ -95,4 +95,4 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
  
 2. Tiimi juhtimine, suhtlemine ja töö koormuse jaotamine.
 
-3. Lihtne päringu funktsioon ja parem arusaam VueJSist.
+3. Lihtne päringu funktsiooni tegemine ja parem arusaam VueJSist.
