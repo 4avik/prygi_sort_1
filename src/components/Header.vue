@@ -57,7 +57,9 @@ const addToList = (newProduct) => {
 
 <template>
   <header class="bg-[#A0C49D] h-24 drop-shadow-md flex justify-around items-center w-screen">
-    <img src="../assets/recycle-symbol 1.png" class="w-12" alt="">
+    <RouterLink to="/">
+      <img src="../assets/recycle-symbol 1.png" class="w-12" alt="Recycle logo">
+    </RouterLink>
     <div class="flex justify-end items-center">
       <MagnifyingGlassIcon class="absolute h-4 mr-2" />
       <input class="flex h-9 rounded-md border border-input bg-[#E1ECC8] border-[#A0C49D] px-3 py-1 text-sm shadow-sm focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring placeholder-black" 
