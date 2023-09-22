@@ -8,11 +8,11 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 - Ruumis olev tahvel, GitHub, Figma, VsCode
 
 ## Valitud suhtluskanal
-- Slack
+- [Slack](https://slack.com/)
 
 
 ## 📓 Lingid projektist
-[Figma](https://www.figma.com/file/fWorQB1VOL1sMQNosSKPAN/Untitled?)
+- [Figma](https://www.figma.com/file/fWorQB1VOL1sMQNosSKPAN/Untitled?)
 
 ## ⚡Meie tiimiliikmed:
 
