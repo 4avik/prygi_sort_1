@@ -57,13 +57,13 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 
 **Liis Alber-Jaansalu**
 
-1. 
+1. Arendusprotsess etappide kaupa, oli hea teha need läbi nii, nagu asi päriselt käima peaks. 
 
 
-2. 
+2. Suhtlus tiimikaaslastega, analüüsioskuse arendamine.
 
 
-3. 
+3. Värskendasin mälu Figma osas, wiki kirjutamine, Vue.
 
 **Andrus Raamat**
 
