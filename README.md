@@ -96,3 +96,12 @@ Selle projekti peamised eesmärgid on Tarkvara projekti idee analüüs, planeeri
 2. Tiimi juhtimine, suhtlemine ja töö koormuse jaotamine.
 
 3. Lihtne päringu funktsiooni tegemine ja parem arusaam VueJSist.
+
+**Emma Lotta Rand**
+
+1. Tean järgmistes projektides milliseid töövahendeid kasutada ja mida projekt endast kujutab.
+ 
+2. Õppisin meeskonnatööd ja omavahelist suhtlemist.
+
+3. Õppisin kuidas kasutada GitHubi ja Figmat.
+
